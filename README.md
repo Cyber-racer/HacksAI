@@ -3,4 +3,4 @@
 Сайт хакатона: https://hacks-ai.ru/championships/758300   
 Автор: Николаев Иван студент Финансового университета при Правительстве РФ 3 курс  
 Решение представлено в файле Final_solution.ipynb  
-/nСлайды в slides.pdf и Presentation.pptx  
+Слайды в slides.pdf и Presentation.pptx  
